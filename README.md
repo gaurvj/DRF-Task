@@ -1,6 +1,8 @@
 # DRF-Task
 A Django Get REST api  task.which is using Python(3.5),Django(2.2) and Sqllite(DB.This project also contain a django custom command to insert dummy data into the db.
 
+- Please read the full document:-
+
 Technologies Used Python(3.5) Django(2.2) Sqllite3
 
 Install
