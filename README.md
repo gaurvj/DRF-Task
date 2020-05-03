@@ -1,4 +1,4 @@
-DRF-Task
+# DRF-Task
 A Django REST framework application task.which is using Python(3.5),Django(2.2) and Sqllite(DB.This project also contain a django custom command to insert dummy data into the db.
 
 Technologies Used Python(3.5) Django(2.2) Sqllite3
