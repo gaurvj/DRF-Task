@@ -1,0 +1,2 @@
+Django==2.2.12
+virtualenv==16.2.0
